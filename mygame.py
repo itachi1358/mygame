@@ -1,4 +1,4 @@
-#code by Arshaf
+#code by Arshad
 
 import pygame
 import random
